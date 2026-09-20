@@ -184,4 +184,4 @@ Ranking de consumo (soma 946,8 kWh, igual ao total do painel):
 
 ## Vídeo de Demonstração
 
-[PREENCHER: link do vídeo no YouTube (não listado)]
+https://youtu.be/RgRSTr3mPVM
